@@ -1,10 +1,11 @@
-环境配置：
+环境配置
 ray=1.9.1
 pytorch=1.10.1
 torchvision=0.11.2
 matplotlib=3.5.0
 prettytable=2.5.0
 apex: https://github.com/NVIDIA/apex
+
 # *不同防御方案下的模型训练（以ResNet-18为例）**
 
 ```
